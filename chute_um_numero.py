@@ -2,7 +2,7 @@ from random import randint
 import PySimpleGUI as sg
 
 
-class ChuteUmNumero:
+class ChuteumNumero:
     def __init__(self):
         sg.change_look_and_feel('DarkRed1')
         self.valor_aleatorio = 0
