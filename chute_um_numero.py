@@ -47,5 +47,5 @@ class ChuteumNumero:
         self.valor_aleatorio = randint(1, 100)
 
 
-chute = chute_um_numero()
+chute = ChuteumNumero()
 chute.iniciar()
