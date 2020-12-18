@@ -1,2 +1,2 @@
 # Primeiros-Projetos
-Local com os primeiros projetos práticos de João Arthur
+Local com os primeiros projetos práticos de programação 
